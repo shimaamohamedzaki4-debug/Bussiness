@@ -24,7 +24,8 @@ The main goal of this project was to transform raw data into meaningful insights
 ---
 
 ## 📷 Dashboard Preview
-(./"C:\Users\EAA\Pictures\Screenshots\Dashboard.png.png")
+
+![Business Performance Dashboard](./Dashboard.png)
 
 ---
 
